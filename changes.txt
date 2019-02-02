@@ -1,0 +1,6 @@
+1.0.1
+- Updated Visual Composer to 5.5
+- Updated Revolution Slider to 5.4.8
+- Updated Cinerama Core to 1.0.1
+- Added Set Link as Lightbox option for Interactive Link Showcase shortcode
+- Fixed infinity loading after import revolution sliders
